@@ -1,0 +1,8 @@
+U:\algodat\algodat2\algodat2\bin\Debug\algodat2.exe.config
+C:\Users\Arben\Desktop\algodat2\algodat2\bin\Debug\algodat2.exe.config
+C:\Users\Arben\Desktop\algodat2\algodat2\bin\Debug\algodat2.exe
+C:\Users\Arben\Desktop\algodat2\algodat2\bin\Debug\algodat2.pdb
+C:\Users\Arben\Desktop\algodat2\algodat2\obj\Debug\algodat2.csprojAssemblyReference.cache
+C:\Users\Arben\Desktop\algodat2\algodat2\obj\Debug\algodat2.csproj.CoreCompileInputs.cache
+C:\Users\Arben\Desktop\algodat2\algodat2\obj\Debug\algodat2.exe
+C:\Users\Arben\Desktop\algodat2\algodat2\obj\Debug\algodat2.pdb
