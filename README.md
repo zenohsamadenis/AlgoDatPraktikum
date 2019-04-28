@@ -4,7 +4,7 @@ Dokumentenablage für das Gruppenpraktikum in AlgoDat, AMP4
 Jo Leute, ich hätte diese Repository für unser Praktikum eingerichtet.
 Damit können wir alle relativ zeitgleich am Projekt arbeiten, ohne dass wir zu viele verschiedene Versionen erzeugen.
 
-Repository ist komplett public und ohne Beschränkung des Schreibbeschränkung, also tobt euch aus.
+Repository ist komplett public und ohne Beschränkung des Schreibberechtigung, also tobt euch aus.
 
 Schickt mir gern einfach euren GitHub-Namen, falls ihr nen Account habt.
 Dann trag ich euch als Collaborator ein, dann können wir das auch alles private machen.
